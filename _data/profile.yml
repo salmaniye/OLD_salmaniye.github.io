@@ -1,0 +1,37 @@
+image: assets/img/avatar-icon.png
+username: Salman Fatahillah
+description: Data Scientist
+webpage: https://chrjabs.github.io
+
+interests: # Remove for hiding the interests section
+  - Interest 1
+  - Interest 2
+skills: # Remove for hiding the skills section
+  - skill: HTML5 & CSS
+    value: 85  # Percent value
+
+social:
+  email:  fatahillah.salman@outlook.com
+  #orcid: 
+  #scholar: 
+  #publons: 
+  #research_gate: 
+  #dblp:  # Full URL
+  #semantic_scholar:  # Full URL
+  linkedin:  https://www.linkedin.com/in/salman-fatahillah/ 
+  github: salmaniye
+  #gitlab: 
+  #bitbucket: chrjabs
+  #google_plus:
+  #mastodon: https://mastodon.social
+  #twitter: chrjabs
+  #youtube:
+  #facebook:
+  #instagram:
+
+experience: # Remove for hiding the experience section
+  - start: 2017-05-03
+    end: 2018-05-06
+    experience : company name, title
+# awards: # Remove for hiding the awards section
+#   - "This is an award I got"
